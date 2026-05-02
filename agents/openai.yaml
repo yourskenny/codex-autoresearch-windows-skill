@@ -1,0 +1,8 @@
+interface:
+  display_name: "Codex Autoresearch"
+  short_description: "Single-entry autonomous experimentation with foreground or background runs"
+  brand_color: "#2563EB"
+  default_prompt: "Use $codex-autoresearch for long-running improve-verify loops, background runs, resume, status, and stop."
+
+policy:
+  allow_implicit_invocation: true
